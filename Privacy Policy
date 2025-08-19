@@ -1,0 +1,122 @@
+# Privacy Policy for Pocketful
+
+**Last Updated: August 20, 2025**
+
+## Introduction
+
+Welcome to Pocketful! We respect your privacy and are committed to protecting your personal data. This privacy policy explains what information we collect, how we use it, and your rights regarding your data.
+
+## Information We Collect
+
+### 1. Information You Provide
+
+**Content You Create:**
+- Photos and images you capture or import
+- Audio recordings you create (when you long-press the capture button)
+- Text, drawings, and stickers you add to your cards
+- Collections and cards you create
+
+### 2. Automatically Collected Information
+
+**Analytics Data (Anonymous):**
+- App usage patterns (which features are used)
+- Screen views and navigation paths
+- General app performance metrics
+- Device type and iOS version
+
+**Technical Information:**
+- Crash reports and error logs (no personal data included)
+- App version information
+
+### 3. Device Permissions
+
+We request the following permissions only when needed:
+
+- **Camera**: To capture photos for your cards
+- **Photo Library**: To import existing photos to your canvas
+- **Microphone**: To record audio notes when you long-press the capture button
+
+## How We Use Your Information
+
+### Your Content
+- All your creative content (photos, drawings, cards) is stored **locally on your device**
+- We do NOT upload your personal content to our servers
+- Your creations remain private and under your control
+
+### Analytics Data
+We use anonymous analytics to:
+- Improve app features and user experience
+- Fix bugs and technical issues
+- Understand which features are most popular
+- Plan future updates
+
+## Data Storage and Security
+
+### Local Storage
+- Your personal content is stored only on your device
+- You can backup and export your data at any time
+- Deleting the app will remove all locally stored content
+
+### Cloud Services
+- We use Firebase for authentication (if you choose to create an account)
+- Anonymous analytics are sent to Supabase for app improvement
+- No personal creative content is uploaded to the cloud
+
+## Data Sharing
+
+**We do NOT:**
+- Sell your personal information
+- Share your content with third parties
+- Use your photos or creations for any purpose
+- Access your content without your permission
+
+**We only share:**
+- Anonymous, aggregated analytics data for app improvement
+- Information required by law enforcement (if legally required)
+
+## Children's Privacy
+
+Pocketful is designed to be safe for users of all ages. We do not knowingly collect personal information from children under 13. All content remains on the device.
+
+## Your Rights
+
+You have the right to:
+- Access your data (it's all on your device)
+- Delete your data (by deleting the app)
+- Export your data (using the backup feature)
+- Opt-out of analytics (in app settings)
+
+## Third-Party Services
+
+We use the following third-party services:
+- **Firebase** (by Google): For optional user authentication
+- **Supabase**: For anonymous analytics
+- **RevenueCat**: For managing in-app purchases
+
+Each service has its own privacy policy:
+- Firebase: https://firebase.google.com/support/privacy
+- Supabase: https://supabase.com/privacy
+- RevenueCat: https://www.revenuecat.com/privacy
+
+## Changes to This Policy
+
+We may update this privacy policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
+
+## Contact Us
+
+If you have any questions about this privacy policy or our practices, please contact us at:
+
+**Email**: [Your support email]
+**Website**: https://github.com/[your-username]/pocketful
+
+## California Privacy Rights
+
+California residents have additional rights under the California Consumer Privacy Act (CCPA). You may request information about data collection and deletion of your data.
+
+## European Union Rights
+
+EU residents have rights under GDPR including access, rectification, erasure, and data portability. Contact us to exercise these rights.
+
+---
+
+© 2024 Pocketful. All rights reserved.
