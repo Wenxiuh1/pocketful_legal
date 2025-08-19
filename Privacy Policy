@@ -84,19 +84,11 @@ You have the right to:
 - Access your data (it's all on your device)
 - Delete your data (by deleting the app)
 - Export your data (using the backup feature)
-- Opt-out of analytics (in app settings)
 
 ## Third-Party Services
 
 We use the following third-party services:
-- **Firebase** (by Google): For optional user authentication
 - **Supabase**: For anonymous analytics
-- **RevenueCat**: For managing in-app purchases
-
-Each service has its own privacy policy:
-- Firebase: https://firebase.google.com/support/privacy
-- Supabase: https://supabase.com/privacy
-- RevenueCat: https://www.revenuecat.com/privacy
 
 ## Changes to This Policy
 
@@ -106,8 +98,7 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 If you have any questions about this privacy policy or our practices, please contact us at:
 
-**Email**: [Your support email]
-**Website**: https://github.com/[your-username]/pocketful
+**Email**: [wenxiuh1225@gmail.com]
 
 ## California Privacy Rights
 
