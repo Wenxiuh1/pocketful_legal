@@ -1,113 +1,102 @@
-# Privacy Policy for Pocketful
+Privacy Policy for Pocketful
+Last Updated: December 10, 2025
 
-**Last Updated: August 20, 2025**
+Introduction
 
-## Introduction
+Welcome to Pocketful!
 
-Welcome to Pocketful! We respect your privacy and are committed to protecting your personal data. This privacy policy explains what information we collect, how we use it, and your rights regarding your data.
+We respect your privacy and designed this app so that your data stays on your device. We do not run our own backend for Pocketful, do not require you to create an account, and do not collect, store, or sell your personal data on any server.
 
-## Information We Collect
+This privacy policy explains what information stays on your device, which permissions the app uses, and what happens when you delete the app.
 
-### 1. Information You Provide
+Information We Collect
 
-**Content You Create:**
-- Photos and images you capture or import
-- Audio recordings you create (when you long-press the capture button)
-- Text, drawings, and stickers you add to your cards
-- Collections and cards you create
+We do not collect any personal data on our servers.
 
-### 2. Automatically Collected Information
+Pocketful does not use Firebase Analytics, Supabase, or any other analytics or tracking SDK.
+We do not operate a cloud database for your content, and we do not have access to what you create inside the app.
 
-**Analytics Data (Anonymous):**
-- App usage patterns (which features are used)
-- Screen views and navigation paths
-- General app performance metrics
-- Device type and iOS version
+Content Stored on Your Device
 
-**Technical Information:**
-- Crash reports and error logs (no personal data included)
-- App version information
+When you use Pocketful, the following content may be stored locally on your device only:
 
-### 3. Device Permissions
+Photos and images you capture or import
 
-We request the following permissions only when needed:
+Audio recordings you create (for example when using the sound capture)
 
-- **Camera**: To capture photos for your cards
-- **Photo Library**: To import existing photos to your canvas
-- **Microphone**: To record audio notes when you long-press the capture button
+Text notes and written content
 
-## How We Use Your Information
+Drawings and doodles
 
-### Your Content
-- All your creative content (photos, drawings, cards) is stored **locally on your device**
-- We do NOT upload your personal content to our servers
-- Your creations remain private and under your control
+Cards and collections (tin boxes) you create
 
-### Analytics Data
-We use anonymous analytics to:
-- Improve app features and user experience
-- Fix bugs and technical issues
-- Understand which features are most popular
-- Plan future updates
+This content never leaves your device unless you share it yourself using iOS system sharing (for example sending a screenshot or image to a friend).
 
-## Data Storage and Security
+We do not upload your creative content to any server.
 
-### Local Storage
-- Your personal content is stored only on your device
-- You can backup and export your data at any time
-- Deleting the app will remove all locally stored content
+Device Permissions
 
-### Cloud Services
-- We use Firebase for authentication (if you choose to create an account)
-- Anonymous analytics are sent to Supabase for app improvement
-- No personal creative content is uploaded to the cloud
+Pocketful requests certain system permissions only when needed:
 
-## Data Sharing
+Camera – to take photos you want to use in your cards
 
-**We do NOT:**
-- Sell your personal information
-- Share your content with third parties
-- Use your photos or creations for any purpose
-- Access your content without your permission
+Photo Library – to import existing photos
 
-**We only share:**
-- Anonymous, aggregated analytics data for app improvement
-- Information required by law enforcement (if legally required)
+Microphone – to record audio that you choose to add
 
-## Children's Privacy
+These permissions are used only to let you create content inside Pocketful.
+We do not use them to collect data on our servers.
+You can change these permissions at any time in your device settings, but some features may not work without them.
 
-Pocketful is designed to be safe for users of all ages. We do not knowingly collect personal information from children under 13. All content remains on the device.
+Data Storage and Deletion
 
-## Your Rights
+All of your creative content is stored locally on your device.
 
-You have the right to:
-- Access your data (it's all on your device)
-- Delete your data (by deleting the app)
-- Export your data (using the backup feature)
+We do not provide cloud backup or account sync for Pocketful.
 
-## Third-Party Services
+If you delete the app, all data stored inside the app will be deleted and cannot be recovered by us.
 
-We use the following third-party services:
-- **Supabase**: For anonymous analytics
+If you want to keep your creations, please save or export them (for example using screenshots or iOS system sharing) before deleting the app.
 
-## Changes to This Policy
+Data Sharing
 
-We may update this privacy policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
+Because we do not collect your personal data on any server:
 
-## Contact Us
+We do not sell your data
 
-If you have any questions about this privacy policy or our practices, please contact us at:
+We do not share your content with third parties
 
-**Email**: [wenxiuh1225@gmail.com]
+We do not use your photos, audio, or creations for any other purpose
 
-## California Privacy Rights
+The only time your content leaves your device is when you choose to share it (for example sending an image/card to a friend using iOS share sheet).
 
-California residents have additional rights under the California Consumer Privacy Act (CCPA). You may request information about data collection and deletion of your data.
+Children’s Privacy
 
-## European Union Rights
+Pocketful is designed to be safe for users of all ages.
+We do not knowingly collect any personal information from children, because we do not collect personal data at all on our servers.
 
-EU residents have rights under GDPR including access, rectification, erasure, and data portability. Contact us to exercise these rights.
+Parents or guardians can manage usage and access through the device’s system settings.
 
----
+Your Rights
 
-© 2024 Pocketful. All rights reserved.
+Because we do not collect data on our servers, you control your information directly on your device:
+
+You can view and manage your content inside the app
+
+You can delete individual creations at any time
+
+You can delete all data by deleting the app from your device
+
+If you live in a region with specific privacy laws (such as the EU or California) and have questions, you can still contact us using the email below. In most cases, the answer will be that all data is stored only on your device and is not accessible to us.
+
+Changes to This Policy
+
+We may update this privacy policy from time to time. If we make changes, we will update the “Last Updated” date at the top of this document. Substantial changes may also be highlighted in the app.
+
+Contact Us
+
+If you have any questions about this privacy policy or how Pocketful handles data, please contact us at:
+
+Email: wenxiuh1225@gmail.com
+
+© 2025 Pocketful. All rights reserved.
