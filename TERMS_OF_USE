@@ -1,229 +1,256 @@
-Pocketful Terms of Use
+# Terms of Use for Pocketful
 
-Last Updated: December 2025
+Last Updated: April 28, 2026
 
-Welcome to Pocketful! These Terms of Use (“Terms”) govern your use of the Pocketful mobile application (“App”). By downloading, installing, or using the App, you agree to be bound by these Terms and by our Privacy Policy.
+Welcome to Pocketful!
+
+These Terms of Use (“Terms”) govern your download, installation, and use of the Pocketful mobile application (“App”). Pocketful is also known in Chinese as 鸦鸦盒子.
+
+By downloading, installing, or using the App, you agree to be bound by these Terms and by our Privacy Policy.
 
 If you do not agree to these Terms, please do not use the App.
 
-1. Eligibility and Use
+## 1. Eligibility and Use
 
-By using Pocketful, you confirm that:
+By using the App, you confirm that:
 
-You have read and understood these Terms; and
-
-If you are under the age of 13 (or the minimum age in your jurisdiction), you are using the App with the permission and supervision of a parent or legal guardian.
+- You have read and understood these Terms;
+- You will use the App in accordance with applicable laws, these Terms, and relevant App Store rules;
+- If you are under the age of 13, or under the minimum age required in your jurisdiction, you are using the App with the permission and supervision of a parent or legal guardian.
 
 Parents and guardians are responsible for supervising the use of the App by minors in their care.
 
-2. Description of the Service
+## 2. Description of the Service
 
-Pocketful is a creative journaling app that runs entirely on your device. In this version of the App, you can:
+Pocketful is a creative journaling, life-recording, and collection app that runs locally on your device.
 
-Capture photos, audio, text, and doodles as “stickers”
+In the current version of the App, you can:
 
-Arrange these elements into visual cards and collections (“tin boxes”)
+- Capture photos, audio, text, and doodles as “stickers”;
+- Arrange these elements into visual cards;
+- Organize cards into collections or “tin boxes”;
+- Create and manage multiple themed collections on your device.
 
-Create and organize multiple themed collections on your device
+In the current version, all features of the App are provided free of charge:
 
-All features in the current version of Pocketful are provided free of charge.
-There are no in-app purchases, no subscriptions, and no paid premium features in this version.
+- The App does not include in-app purchases;
+- The App does not include subscriptions;
+- The App does not include paid premium features;
+- The App does not require you to create an account;
+- The App does not connect your creative content to any backend server.
 
-The App does not require you to create an account and does not connect to any backend server for your content.
+We may update, adjust, add, or remove features in future versions. If we introduce paid features, accounts, cloud sync, or other features that require additional explanation, we will update these Terms and our Privacy Policy accordingly and provide relevant information in the App or on the App Store page.
 
-We may update or change features in future versions, but any major change (such as adding paid features or accounts) would be reflected in updated Terms and Privacy Policy.
+## 3. User Content
 
-3. User Content
-3.1 Ownership
+### 3.1 Ownership
 
-You retain all rights to the content you create in Pocketful, including:
+You retain all rights to the content you create, import, edit, or save in the App, including but not limited to:
 
-Photos and images
+- Photos and images;
+- Audio recordings;
+- Text notes and reflections;
+- Drawings and doodles;
+- Cards and collections.
 
-Audio recordings
+We do not claim ownership of your user content, and using the App does not transfer ownership of your content to us.
 
-Text notes and reflections
-
-Drawings and doodles
-
-Cards and collections
-
-We do not claim ownership of your content.
-
-3.2 Storage
+### 3.2 Storage
 
 Your content is stored locally on your device only.
-We do not upload your creative content to our servers, because we do not operate a content backend for Pocketful.
+
+We do not upload your creative content to our servers, because the App currently does not operate a backend service for storing user content.
 
 Because we do not host your content:
 
-We cannot access, view, or modify what you create in the App
+- We cannot access, view, or modify what you create in the App;
+- We cannot restore your data if it is lost or deleted on your device;
+- We cannot recover your data if your device is lost, damaged, reset, or if you delete the App.
 
-We cannot restore your data if it is lost or deleted on your device
+If you choose to share your creations, for example through screenshots, exported images, or the system share sheet, that sharing happens through your device and the apps or recipients you choose, not through our servers.
 
-If you choose to share your creations (for example via screenshots or system share sheet), that sharing happens through your device and the apps you choose, not through our servers.
+### 3.3 Responsibility for Your Content
 
-3.3 Responsibility for Your Content
+You are solely responsible for the content you create, import, save, and share through the App.
 
-You are solely responsible for the content you create and share. You agree not to use the App to create or share content that:
+You agree not to use the App to create, save, or share content that:
 
-Violates any applicable laws or regulations
+- Violates any applicable laws or regulations;
+- Infringes the rights of others, including intellectual property rights, privacy rights, publicity rights, or reputation rights;
+- Contains illegal, abusive, threatening, violent, harassing, discriminatory, hateful, or otherwise harmful material;
+- May cause harm to others or violate public order or generally accepted standards of conduct.
 
-Infringes on the rights (including intellectual property rights) of others
+We do not actively review content stored locally on your device. However, if you submit, display, or send content to us through public channels, feedback, support requests, or other communications, you are responsible for ensuring that such content is lawful and does not infringe third-party rights.
 
-Contains illegal, abusive, or harmful material
+## 4. Fees, Purchases, and Subscriptions
 
-4. Fees, Purchases, and Subscriptions
+In the current version of the App:
 
-In the current version of Pocketful:
+- All features are free to use;
+- There are no subscriptions;
+- There are no one-time purchases;
+- There are no paid upgrades;
+- The App does not use any third-party payment or subscription management SDK.
 
-All features are free to use
+If we introduce paid features, subscriptions, one-time purchases, or other commercial features in the future, we will update these Terms and clearly indicate the relevant fees, benefits, cancellation methods, and other important information in the App and on the App Store page.
 
-There are no subscriptions, no one-time purchases, and no paid upgrades
+## 5. Privacy and Data
 
-The App does not use any third-party payment or subscription SDK
+### 5.1 No Server-Side Data Collection
 
-If we introduce paid features in the future, we will update these Terms and clearly indicate any fees within the App and in the App Store listing.
+The App is designed to run locally on your device:
 
-5. Privacy and Data
-5.1 No Server-Side Data Collection
-
-Pocketful is designed to run locally on your device:
-
-We do not require you to create an account or sign in
-
-We do not use Firebase, Supabase, or any analytics or tracking SDK
-
-We do not collect or store your creative content or personal data on our servers
+- We do not require you to create an account or sign in;
+- We do not use Firebase, Supabase, or other analytics, advertising, or tracking SDKs;
+- We do not collect or store your creative content on our servers;
+- We do not sell your personal data.
 
 Please refer to our Privacy Policy for more details.
 
-5.2 Device Permissions
+### 5.2 Device Permissions
 
-The App may request access to:
+The App may request access to the following system permissions when needed:
 
-Camera – to allow you to capture photos
+- Camera – to allow you to take photos you choose to use in cards or stickers;
+- Microphone – to allow you to record audio you choose to add;
+- Photo Library – to allow you to import existing photos or images.
 
-Microphone – to allow you to record audio
+These permissions are used only to enable relevant features within the App.
 
-Photo Library – to allow you to import existing images
+You can manage and change these permissions in your device settings. If you disable a permission, the related feature may not work properly.
 
-These permissions are used solely to enable features within the App. You can manage these permissions in your device settings. If you disable a permission, the related feature may not work.
-
-5.3 Data Loss
+### 5.3 Data Loss
 
 Because all data is stored locally on your device:
 
-If you delete the App, all data stored within the App will be deleted and cannot be recovered by us
+- If you delete the App, all data stored within the App will be deleted and cannot be recovered by us;
+- If your device is lost, damaged, reset, or system data is cleared, we cannot recover your content;
+- The App currently does not provide cloud backup, account sync, or cross-device recovery.
 
-If your device is lost, damaged, or reset, we cannot recover your content
+If you wish to keep your creations, please save or export important content outside the App before deleting the App, resetting your device, or changing devices. For example, you may export images, take screenshots, or use the system share function.
 
-If you wish to keep your creations, please consider saving them outside of the App (for example, exporting or screenshotting them using your device’s system tools) before deleting the App or resetting your device.
+## 6. Intellectual Property
 
-6. Intellectual Property
-6.1 Our Property
+### 6.1 Our Property
 
-The App itself, including its overall design, code, graphics, templates, logos, and other non-user content, is owned by us or our licensors and is protected by applicable intellectual property laws.
+Except for user-generated content, the App itself and related content are owned by us or the relevant rights holders and are protected by applicable intellectual property laws. This includes, but is not limited to:
 
-6.2 License to Use the App
+- App name;
+- Brand elements;
+- Logos;
+- Character designs;
+- Interface design;
+- Templates;
+- Graphic elements;
+- Source code;
+- Text and copy;
+- Other non-user-generated content.
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to install and use the App on a device that you own or control, for your personal, non-commercial use, in accordance with these Terms and any applicable App Store rules.
+Without our prior written permission, you may not copy, modify, distribute, sell, rent, publicly display, publicly transmit, or otherwise use such content, except as permitted by law or expressly allowed by these Terms.
+
+### 6.2 License to Use the App
+
+Subject to your compliance with these Terms and applicable App Store rules, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to install and use the App on a device that you own or control, solely for your personal, non-commercial use.
 
 You may not:
 
-Copy, modify, distribute, or create derivative works based on the App
+- Copy, modify, distribute, or create derivative works based on the App;
+- Reverse engineer, decompile, disassemble, or attempt to extract the source code of the App, except where expressly allowed by law;
+- Remove, hide, or modify any copyright, trademark, or other proprietary notices;
+- Use the App for any illegal, infringing, or unauthorized purpose;
+- Interfere with or disrupt the normal operation of the App.
 
-Reverse engineer, decompile, or attempt to extract the source code of the App, except where allowed by law
+## 7. Disclaimers
 
-Remove or alter any copyright, trademark, or other proprietary notices
+### 7.1 “As Is” and “As Available”
 
-Use the App for any unlawful or unauthorized purpose
+The App is provided on an “AS IS” and “AS AVAILABLE” basis.
 
-7. Disclaimers
-7.1 “As Is” Availability
+To the maximum extent permitted by applicable law, we make no warranties of any kind, whether express or implied, including but not limited to:
 
-The App is provided on an “AS IS” and “AS AVAILABLE” basis, without warranties of any kind, whether express or implied, including but not limited to:
+- Merchantability;
+- Fitness for a particular purpose;
+- Non-infringement;
+- Accuracy, completeness, or reliability of results.
 
-Merchantability
+We do not guarantee that the App will be error-free, bug-free, secure, uninterrupted, or always available.
 
-Fitness for a particular purpose
+### 7.2 No Professional Advice
 
-Non-infringement
+The App is a creative journaling, life-recording, and self-expression tool. It is not:
 
-Accuracy or reliability of results
+- Medical advice;
+- Psychological or therapeutic advice;
+- A substitute for professional mental health care;
+- A crisis intervention or emergency service.
 
-We do not guarantee that the App will be error-free, secure, or always available.
+If you are experiencing a mental health crisis, medical emergency, or risk of harming yourself or others, please contact local emergency services, a crisis hotline, or a qualified professional immediately.
 
-7.2 No Professional Advice
+## 8. Limitation of Liability
 
-Pocketful is a creative journaling tool. It is not:
+To the maximum extent permitted by applicable law:
 
-Medical, psychological, or therapeutic advice
+- We are not liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or inability to use the App;
+- We are not liable for any loss of data, content, profits, goodwill, or opportunities;
+- We are not liable for device damage, data loss, or inability to recover content resulting from the use of the App.
 
-A substitute for professional mental health care
+Because the App is currently provided free of charge and we do not host your content, our total liability in any case is intended to be limited to the minimum extent permitted by applicable law.
 
-A crisis or emergency service
+Some jurisdictions do not allow the exclusion or limitation of certain warranties or liabilities, so some of the above limitations may not apply to you. In such cases, our liability will be limited to the maximum extent permitted by applicable law.
 
-If you are experiencing a mental health crisis or medical emergency, please contact local emergency services or a qualified professional immediately.
+## 9. Indemnification
 
-8. Limitation of Liability
+To the extent permitted by applicable law, you agree to indemnify and hold harmless Pocketful, 鸦鸦盒子, its developers, rights holders, and related persons from and against any claims, damages, losses, liabilities, costs, or expenses arising out of or related to:
 
-To the maximum extent permitted by law:
+- Your use of the App;
+- Your violation of these Terms;
+- The content you create, import, save, or share;
+- Your violation of any third-party rights or applicable laws.
 
-We are not liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the App
-
-We are not liable for any loss of data, content, or profits, or for any device damage related to the use of the App
-
-Because the App is free to use and we do not host your content, our total liability in any case is intended to be minimal and limited to the maximum extent allowed by applicable law.
-
-9. Indemnification
-
-To the extent permitted by law, you agree to indemnify and hold harmless Pocketful and its developers from any claims, damages, or expenses arising out of:
-
-Your use of the App
-
-Your violation of these Terms
-
-Your violation of any third-party rights
-
-10. Termination
+## 10. Termination
 
 You may stop using Pocketful at any time by deleting the App from your device.
 
-We may suspend or discontinue the App, or limit your access to it, at any time and for any reason, including if we believe you are misusing the App or violating these Terms.
+We may suspend, restrict, or discontinue the App or any part of it at any time if we believe it is necessary, including if you violate these Terms, misuse the App, or if required for safety, legal, operational, or business reasons.
 
-Upon deletion or discontinuation of the App, your license to use the App ends immediately. Because we do not host your data, we do not retain copies of your content after you delete the App from your device.
+Upon deletion of the App or discontinuation of the App, your license to use the App ends immediately.
 
-11. Changes to These Terms
+Because we do not host your data, we do not retain copies of your content after you delete the App from your device, and we cannot restore your content.
 
-We may update these Terms from time to time. When we do, we will change the “Last Updated” date at the top of this document. For significant changes, we may also provide a notice within the App.
+## 11. Changes to These Terms
+
+We may update these Terms from time to time.
+
+When we update these Terms, we will change the “Last Updated” date at the top of this document.
+
+For significant changes, we may provide notice in the App, on the App Store page, or through other appropriate means.
 
 If you continue to use the App after the updated Terms become effective, you are deemed to have accepted the changes.
 
-12. Governing Law
+## 12. Governing Law
 
-These Terms are governed by the laws of the jurisdiction where the developer is based, without regard to its conflict of law principles.
+These Terms are governed by the applicable laws of the jurisdiction where the developer is based, without regard to conflict of law principles.
 
-If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
+If any provision of these Terms is found to be invalid, unlawful, or unenforceable, the remaining provisions will remain in full force and effect.
 
-13. Contact Us
+## 13. Contact Us
 
-If you have any questions about these Terms or about Pocketful, please contact us at:
+If you have any questions, comments, or requests about these Terms or Pocketful, please contact us at:
 
-Email: wenxiuh1225@gmail.com
+Email: pocketfulapp@gmail.com
 
-14. Apple-Specific Terms
+## 14. Apple-Specific Terms
 
-As required by Apple:
+If you download or use the App through the Apple App Store, the following terms apply:
 
-These Terms are between you and Pocketful, not Apple
-
-Apple is not responsible for the App or its contents
-
-Apple has no obligation to provide maintenance or support for the App
-
-To the extent any warranty exists that has not been disclaimed, Apple will have no warranty obligation with respect to the App
-
-Apple is a third-party beneficiary of these Terms and may enforce them against you
+- These Terms are between you and Pocketful / 鸦鸦盒子, not Apple;
+- Apple is not responsible for the App or its contents;
+- Apple has no obligation to provide maintenance or support services for the App;
+- To the extent any warranty exists that has not been disclaimed, Apple has no warranty obligation with respect to the App;
+- Apple is not responsible for addressing any claims by you or any third party relating to the App or your use of the App;
+- Apple is not responsible for handling any intellectual property infringement claims relating to the App;
+- Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce these Terms against you as third-party beneficiaries.
 
 By using Pocketful, you acknowledge that you have read, understood, and agree to these Terms of Use.
+
+© 2025 Pocketful. All rights reserved.
